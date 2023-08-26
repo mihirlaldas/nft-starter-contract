@@ -1,3 +1,4 @@
+# [DEPRICATED]
 # Simple solidity contract to mint funny words NFT
 
 ## [checkout the app here](https://nft-starter-project.mihirlaldas.repl.co/)
